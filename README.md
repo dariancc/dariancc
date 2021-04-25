@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dariancc
-- 👀 I’m interested in creating apps that help others. I am also a pharmacist interested in investing. 
+- 👀 I’m interested in creating apps that help others. I work in healthcare and am also interested in investing. 
 - 🌱 I’m currently taking CS50x intro to CS. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Darian.c.c@gmail.com
