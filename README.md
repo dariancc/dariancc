@@ -1,4 +1,3 @@
-- Pharmacist. Stock investor.
 - 🌱 Currently taking CS50x intro to CS. 
 - 📫 darian.c.c@gmail.com
 
