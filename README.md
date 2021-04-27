@@ -1,5 +1,6 @@
-- 🌱 I’m currently taking CS50x intro to CS. 
-- 📫 Darian.c.c@gmail.com
+- Pharmacist. Stock investor.
+- 🌱 Currently taking CS50x intro to CS. 
+- 📫 darian.c.c@gmail.com
 
 <!---
 dariancc/dariancc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
