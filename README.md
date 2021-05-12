@@ -1,3 +1,4 @@
+- Pharmacist.
 - 🌱 Currently taking CS50x intro to CS.
 
 <!---
